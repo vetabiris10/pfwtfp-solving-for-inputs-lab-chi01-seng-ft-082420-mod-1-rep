@@ -5,7 +5,7 @@ end
 
 def all_valid_inputs
   # Return an Array of all inputs to the first method that will not raise an error
-  
+
 end
 
 def what_is_the_output_type
