@@ -1,6 +1,6 @@
 def what_method_executes_first
   # Return the name of the method that
-
+create_deck
 end
 
 def all_valid_inputs
