@@ -1,6 +1,6 @@
 def what_method_executes_first
   # Return the name of the method that
-setup_game
+start_game
 end
 
 def all_valid_inputs
